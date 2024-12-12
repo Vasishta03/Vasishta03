@@ -4,7 +4,6 @@ I'm a student with a strong foundation in **cybersecurity** and experience in mu
 - Certified in SIEM Tools and IDS.
 
 # 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasishta03&theme=tokyonight&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasishta03&layout=compact&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
