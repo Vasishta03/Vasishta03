@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/user-attachments/assets/7153a6d5-06f2-466c-b890-522d9cfcd8b5)
+
+
 # About Me
 I'm a student with a strong foundation in **cybersecurity** and experience in multiple programming languages. I'm passionate about tackling complex challenges and exploring innovative projects. Let's connect and collaborate!
 
@@ -5,6 +8,3 @@ I'm a student with a strong foundation in **cybersecurity** and experience in mu
 
 # 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasishta03&layout=compact&theme=tokyonight&hide_border=false)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vasishta03&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&row=4)
