@@ -2,7 +2,7 @@
 
 
 # About Me
-I'm a student with a strong foundation in **cybersecurity** and experience in multiple programming languages. I'm passionate about tackling complex challenges and exploring innovative projects. Let's connect and collaborate!
+I’m a student and developer interested in data science, machine learning, and cybersecurity. I like building practical tools that solve real problems and automate repetitive tasks.
 
 - Certified in SIEM Tools and IDS.
 - Google Advanced Data Analytics Specialization
